@@ -56,6 +56,7 @@ The dataset covers multiple trading days across all 5 sentiment categories
 Balanced distribution between Fear and Greed regimes
 
 2. **Performance by Sentiment**
+
 Sentiment	Avg Daily PnL	Avg Trade Count	Trading Volume	Key Insight
 Extreme Fear	Highest	Moderate	Highest	Contrarian buying opportunities yield highest returns
 Fear	High	Highest	High	Fear premium exists with increased activity
@@ -84,13 +85,13 @@ Win Rate: Highest win rate (47%) during Extreme Greed despite lower average retu
 ## 📈 Visualizations
 
 Sentiment Distribution
-https://outputs/sentiment_distribution.png
+<img width="1000" height="500" alt="sentiment_distribution" src="https://github.com/user-attachments/assets/e5fdeb2d-e5b9-4138-99b1-cc20ded26239" />
 
 Performance by Sentiment
-https://outputs/performance_by_sentiment.png
+<img width="1200" height="500" alt="performance_by_sentiment" src="https://github.com/user-attachments/assets/6ee4ba77-39a0-4027-8896-0cb9760bc81c" />
 
 Correlation Heatmap
-https://outputs/correlation_heatmap.png
+<img width="800" height="600" alt="correlation_heatmap" src="https://github.com/user-attachments/assets/9bc9c313-c89d-4f64-abff-2a5bef238440" />
 
 ## 💡 Actionable Trading Strategies
 
