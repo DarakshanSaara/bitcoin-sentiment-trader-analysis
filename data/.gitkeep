@@ -1,0 +1,7 @@
+# Data Folder
+
+This folder should contain the following CSV files:
+- fear_greed_index.csv
+- historical_data.csv
+
+These files are ignored by git due to size/privacy.

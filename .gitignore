@@ -1,0 +1,110 @@
+# ====================================
+# DATA FILES
+# ====================================
+data/*.csv
+*.csv
+!data/.gitkeep
+
+# ====================================
+# PYTHON CACHE FILES
+# ====================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.dll
+*.dylib
+
+# ====================================
+# JUPYTER NOTEBOOK
+# ====================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+*.ipynb~ 
+~*.ipynb
+
+# ====================================
+# VIRTUAL ENVIRONMENT
+# ====================================
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+venv*
+env*
+
+# ====================================
+# VS CODE (if using VS Code)
+# ====================================
+.vscode/
+*.code-workspace
+.history/
+
+# ====================================
+# PYTHON TOOLS
+# ====================================
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# ====================================
+# JUPYTER EXTENSIONS
+# ====================================
+jupyter_notebook_config.py
+jupyter_config.py
+
+# ====================================
+# OS GENERATED FILES
+# ====================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# ====================================
+# LOGS AND DATABASES
+# ====================================
+*.log
+*.sql
+*.sqlite
+*.db
+
+# ====================================
+# IDE FILES (PyCharm, etc.)
+# ====================================
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ====================================
+# SECRETS AND KEYS
+# ====================================
+.env
+*.key
+*.pem
+secrets.py
+config.py
+
+# ====================================
+# BACKUP FILES
+# ====================================
+*.bak
+*.backup
+*.old
+*.orig
